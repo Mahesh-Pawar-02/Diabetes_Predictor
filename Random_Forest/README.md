@@ -11,6 +11,7 @@ This project aims to predict diabetes using a Random Forest algorithm. The datas
 - [Project Structure](#project-structure)
 - [Implementation Details](#implementation-details)
 - [Results](#results)
+- [Author](#author)
 - [License](#license)
 
 ## Dataset
@@ -60,6 +61,9 @@ The project is implemented in Python, and the key steps are:
 4. Train the Random Forest model: A Random Forest classifier is initialized and trained on the training data.
 5. Evaluate the model: The model's accuracy on the training and test sets is printed.
 6. Plot feature importance: A bar plot showing the importance of each feature is generated and saved.
+
+## Author
+Created By Mahesh Dinkar Pawar
 
 ### Explanation:
 1. **Overview**: A brief introduction to the project.
