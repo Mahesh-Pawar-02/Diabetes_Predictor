@@ -8,6 +8,7 @@ This project implements a Diabetes Predictor using the K Nearest Neighbours (KNN
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Results](#results)
+- [Author](#author)
 - [License](#license)
 
 ## Introduction
@@ -61,6 +62,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 The dataset used in this project is provided by the National Institute of Diabetes and Digestive and Kidney Diseases.
 This project was created by Mahesh Pawar.
 
+## Author
+Created By Mahesh Dinkar Pawar
 
 ### Explanation of Sections:
 1. **Introduction**: Briefly describes the project and its goal.
