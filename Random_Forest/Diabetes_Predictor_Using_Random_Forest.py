@@ -52,7 +52,7 @@ def plot_feature_importance(model, data):
     plt.ylabel("Feature")  # Set the y-axis label
     plt.ylim(-1, n_features)  # Set the y-axis limits
     plt.title("Random Forest: Feature Importance")  # Set the plot title
-    plt.savefig('Random_Forest/Random_Forest.png')  # Save the plot as a PNG file
+    plt.savefig('Random_Forest.png')  # Save the plot as a PNG file
     plt.show()  # Display the plot
 
 # Main function to orchestrate the execution of all tasks
@@ -61,7 +61,7 @@ def main():
     print("------Diabetes Predictor using Random Forest algorithm-------\n")
 
     # Define the path to the dataset
-    file_path = 'Random_Forest/diabetes.csv'
+    file_path = 'diabetes.csv'
 
     # Load the data
     diabetes_data = load_data(file_path)

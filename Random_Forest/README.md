@@ -42,7 +42,7 @@ To run this project, you'll need to have Python installed along with the followi
 - python Diabetes_Predictor_Using_Random_Forest.py
 
 
-Diabetes_Predictor/
+Diabetes_Predictor/ 
 │
 ├── Random_Forest/
 │   ├── diabetes.csv
